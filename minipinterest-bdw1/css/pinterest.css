@@ -1,0 +1,43 @@
+.unlog input:hover
+{
+    padding: 0px 40px;
+}
+.button-spe input:hover
+{
+    padding: 0px 40px;
+}
+.login a:hover
+{
+    padding: 0px 40px;
+}
+.inscription a:hover
+{
+    padding: 0px 40px;
+}
+.inscription input
+{
+    font-size: 22px !important;
+}
+.inscription label
+{
+    font-size: 16px;
+    color:rgb(0, 0, 0);
+}
+.userProfil input
+{
+    font-size: 22px !important;
+}
+.userProfil label
+{
+    font-size: 16px;
+    color:rgb(0, 0, 0);
+}
+.login label
+{
+    font-size: 16px;
+    color:rgb(0, 0, 0);
+}
+.login input
+{
+    font-size: 22px !important;
+}
